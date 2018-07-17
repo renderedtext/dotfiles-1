@@ -35,11 +35,9 @@ Resizing:
 ## Installation
 
 ``` bash
-git clone https://github.com/shiroyasha/dotfiles ~/dotfiles
+git clone https://github.com/renderedtext/dotfiles-1 ~/dotfiles
 
-cd ~/dotfiles
-
-./install
+cd ~/dotfiles && ./install
 ```
 
 For vim setup visit:
