@@ -1,6 +1,6 @@
-[user]
-  email = igor@renderedtext.com
-  name = Igor Šarčević
+#[user]
+#  email = <name>@renderedtext.com
+#  name = <developer>
 
 [push]
   default = current
